@@ -4,4 +4,4 @@ Using information on flights including the duration, cost, and carrier, determin
 
 Additionally, string, linked list, adjacency, and queue classes were implemented from scratch, and test cases where created to check the functionality of the classes.
 
-Handout: https://docs.google.com/document/d/1Fmx4t4ShC2lqQIkpUApZFd4GPLugPtE-oIWCM8Blz-A/edit
+[Handout](https://docs.google.com/document/d/1Fmx4t4ShC2lqQIkpUApZFd4GPLugPtE-oIWCM8Blz-A/edit)
